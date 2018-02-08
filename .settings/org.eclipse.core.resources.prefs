@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/helloService/HelloService.java=UTF-8
+encoding//src/helloService/HelloServiceService.java=UTF-8
+encoding//src/helloService/HelloServiceServiceLocator.java=UTF-8
+encoding//src/helloService/HelloServiceSoapBindingStub.java=UTF-8
+encoding//src/oneKeyService/OneKeyService.java=UTF-8
+encoding//src/oneKeyService/OneKeyServiceService.java=UTF-8
+encoding//src/oneKeyService/OneKeyServiceServiceLocator.java=UTF-8
+encoding//src/oneKeyService/OneKeyServiceSoapBindingStub.java=UTF-8
+encoding//src/oneKeyService/UserInfo.java=UTF-8
